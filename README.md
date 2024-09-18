@@ -8,7 +8,7 @@ Applied Math student at Wrocław University of Science and Technology
 
 * 🌍  I'm based in Poland, Wrocław
 * ✉️  You can contact me at [adrian1galik@gmail.com](mailto:adrian1galik@gmail.com)
-* 🧠  I'm learning everything with Python, mostly TensorFlow library
+* 🧠  I'm learning everything with Python, at the moment mainly machine learning
 * 🤝  I'm open to collaborating on Beginner projects in machine learning
 
 ### Skills
