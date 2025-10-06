@@ -39,4 +39,4 @@ Python developer specializing in neural networks, with a B.Eng. in Applied Mathe
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vexus1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vexus1&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/vexus1"><img src="https://streak-stats.demolab.com?user=vexus1&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" /></a>
